@@ -1,0 +1,34 @@
+model descriptions for lstm and cnn - sai
+folder structure per model - Jay & update report by Sai
+code structure - update documentation by sai, Rajeev
+output snapshots - 5 snapshots - Rajeev
+csv generation - sai
+comparing models - table and charts Jay, Sai into report
+Bibilography/refs - sai
+conclusion and future work - sai, rajeev, jay (5th)
+Readme.txt - Rajeev
+
+
+
+ppt check we can use old ppt - sai
+
+
+
+
+step 0:
+	pre-processing and storing frames (althogh only being used in first model)
+
+step 1:
+	VGG Model
+
+step 2:
+	Hnadle input video and predict output class based on VGG model
+	create Video
+
+step 3:
+	CNN model
+	create Video
+
+step 4:
+	LSTM model
+	create Video
