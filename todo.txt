@@ -1,10 +1,12 @@
-model descriptions for lstm and cnn - sai
+model descriptions for lstm and cnn - sai - done
+
+output snapshots - 5 snapshots - Rajeev - done
+csv generation - sai - done
+comparing models - table and charts Jay, Sai into report - done 
+Bibilography/refs - sai - done 
+
 folder structure per model - Jay & update report by Sai
 code structure - update documentation by sai, Rajeev
-output snapshots - 5 snapshots - Rajeev
-csv generation - sai
-comparing models - table and charts Jay, Sai into report
-Bibilography/refs - sai
 conclusion and future work - sai, rajeev, jay (5th)
 Readme.txt - Rajeev
 
